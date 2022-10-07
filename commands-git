@@ -15,6 +15,10 @@ git commit -m"documentation commandes-git"
 
 pour finir 
 
+
 git push
 taper le nom d’utilisateur …
 taper le token crée préalablement 
+
+la commande pour pull
+git pull
