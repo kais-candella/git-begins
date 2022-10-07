@@ -1,0 +1,20 @@
+Pour cloner 
+
+git clone lien du repo
+
+en suite 
+
+cd git-begins/
+
+ajout du fichier 
+git add (nom du fichier)
+
+message afficher dans git hub 
+
+git commit -m"documentation commandes-git"
+
+pour finir 
+
+git push
+taper le nom d’utilisateur …
+taper le token crée préalablement 
